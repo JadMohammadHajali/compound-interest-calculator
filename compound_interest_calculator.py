@@ -1,4 +1,4 @@
-""" Temperature Conversion Calculator Project
+""" Compound Interest Calculator Project
 
 The program will display the user's new balance after accruing interest over the specified number of years.
 """
